@@ -1,6 +1,6 @@
 # Seinfeld TV Script Generator
 
-This study corresponds to the third project of Nanodegree *Deep Learning* schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
+This study corresponds to the third project of the nanodegree *Deep Learning*, schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
 
 Its goal is to provide a deep learning algorithm that can **generate original and consistent TV scripts** based on the American television sitcom **Seinfeld** (https://en.wikipedia.org/wiki/Seinfeld): To achieve this objective a RNN (recurrent neural network) has been used and trained on the scripts of all of the episodes of the 9 seasons of the sitcom.
 
