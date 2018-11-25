@@ -5,7 +5,7 @@ This study corresponds to the third project of the nanodegree *Deep Learning*, s
 Its goal is to provide a deep learning algorithm that can **generate original and consistent TV scripts** based on the American television sitcom **Seinfeld** (https://en.wikipedia.org/wiki/Seinfeld): To achieve this objective a RNN (recurrent neural network) has been used and trained on the scripts of all of the episodes of the 9 seasons of the sitcom.
 
 In this repository, you will find the following files and folders:
-* The file ***seinfeld_tv_script_generator.ipynb***, the Jupyter Notebook which contains all the detailed and explained study, accompanied by the results obtained;
+* The file ***seinfeld-tv-script-generator.ipynb***, the Jupyter Notebook which contains all the detailed and explained study, accompanied by the results obtained;
 * The file *helper.py*, a small library of functions which main purpose is to manage the data and the generated model;
 * The file *seinfeld_unittests.py*, a collection of unit tests for a wide array of functions written for the study;
 * The file *workspace_utils.py*, which contains specific code to run programs properly inside Udacity working environments;
